@@ -1,0 +1,7 @@
+function DarkMode() {
+
+}
+
+function LightMode() {
+
+}
